@@ -47,7 +47,7 @@ PGLife-main/
 
 1. Clone or download the repository:
 ```
-   git clone https://github.com/your-username/PGLife.git
+   git clone https://github.com/prajwalk23/PGLife.git
 ```
 Move the project to your web server root (e.g., htdocs in XAMPP).
 
